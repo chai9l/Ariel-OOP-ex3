@@ -34,6 +34,7 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 
 ***DiGraph***
 ***Fields :***
+
 *graph =  a Dictionary of  { Int : NodeData }  representing the graph's Nodes
 
 edges = a Dictionary of { Tuple : Float}  representing the graph's Edges
