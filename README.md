@@ -19,7 +19,7 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 	
 	neighbors = a Dictionary representing a specific node's neighbors
 	
-	pos = a Tuple representing a node's postion*
+	pos = a Tuple representing a node's postion
 	
 ***Methods :***	
 | Method's Name | Description |
@@ -37,11 +37,11 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 ***DiGraph***
 **Fields :**
 
-	*graph =  a Dictionary of  { Int : NodeData }  representing the graph's Nodes
+	graph =  a Dictionary of  { Int : NodeData }  representing the graph's Nodes
 
 	edges = a Dictionary of { Tuple : Float}  representing the graph's Edges
 
-	mc = an Integer representing the number of changes a Graph has been through.*
+	mc = an Integer representing the number of changes a Graph has been through.
 
 ***Methods :***
 
