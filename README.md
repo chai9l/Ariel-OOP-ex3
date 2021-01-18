@@ -7,7 +7,7 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 
 ***NodeData (inside of DiGraph) :***
 
-***Fields :**
+**Fields :**
 	
 	node_id = an Integer representing the node's id
 	
@@ -35,7 +35,7 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 |remove_all_nei|removes all the neighbors in a specific node's neighbor dictionary
 
 ***DiGraph***
-***Fields :***
+**Fields :**
 
 	*graph =  a Dictionary of  { Int : NodeData }  representing the graph's Nodes
 
@@ -64,7 +64,7 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 
 ***Fields :***
 
-	*graph = DiGraph object representing the graph which we're going to work on.*
+	graph = DiGraph object representing the graph which we're going to work on.
 
 ***Methods :***
 | Method's Name | Description |
