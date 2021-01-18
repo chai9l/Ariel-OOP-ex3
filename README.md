@@ -7,7 +7,7 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 
 ***NodeData (inside of DiGraph) :***
 
-	***Fields :**
+***Fields :**
 	
 	node_id = an Integer representing the node's id
 	
@@ -37,11 +37,11 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 ***DiGraph***
 ***Fields :***
 
-*graph =  a Dictionary of  { Int : NodeData }  representing the graph's Nodes
+	*graph =  a Dictionary of  { Int : NodeData }  representing the graph's Nodes
 
-edges = a Dictionary of { Tuple : Float}  representing the graph's Edges
+	edges = a Dictionary of { Tuple : Float}  representing the graph's Edges
 
-mc = an Integer representing the number of changes a Graph has been through.*
+	mc = an Integer representing the number of changes a Graph has been through.*
 
 ***Methods :***
 
@@ -64,7 +64,7 @@ mc = an Integer representing the number of changes a Graph has been through.*
 
 ***Fields :***
 
-*graph = DiGraph object representing the graph which we're going to work on.*
+	*graph = DiGraph object representing the graph which we're going to work on.*
 
 ***Methods :***
 | Method's Name | Description |
