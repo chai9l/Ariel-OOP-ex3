@@ -8,10 +8,15 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 ***NodeData (inside of DiGraph) :***
 	***Fields :**
 	node_id = an Integer representing the node's id
+	
 	tag  = an Integer representing the node's tag
+	
 	weight  = a Float representing the node's weight
+	
 	info  = a String representing the node's info
+	
 	neighbors = a Dictionary representing a specific node's neighbors
+	
 	pos = a Tuple representing a node's postion*
 	
 ***Methods :***	
