@@ -6,7 +6,9 @@ In this project we'll take a look at a few algorithms concerning Weighted Direct
 ## File List
 
 ***NodeData (inside of DiGraph) :***
+
 	***Fields :**
+	
 	node_id = an Integer representing the node's id
 	
 	tag  = an Integer representing the node's tag
@@ -59,9 +61,10 @@ mc = an Integer representing the number of changes a Graph has been through.*
 | get_edge|Returns a Float marking the weight between two Nodes  |
 
 ***GraphAlgo :***
+
 ***Fields :***
 
-	graph = DiGraph object representing the graph which we're going to work on.
+*graph = DiGraph object representing the graph which we're going to work on.*
 
 ***Methods :***
 | Method's Name | Description |
